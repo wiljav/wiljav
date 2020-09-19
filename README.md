@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### I am currently 🌱 C++, and other interesting things. My Interests include Engineering, AI, and Astronomy.
+
+#### Want to reach out? 📫
+<!--[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlemaps.svg" alt="Website" height="30">](https://dataplanes.org) --> 
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30">](https://twitter.com/will88m) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30">](https://www.linkedin.com/in/williamja/)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=wiljav&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
