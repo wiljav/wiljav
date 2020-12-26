@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently 🌱 C++ and software architectures.
+I'm currently 🌱 C++ and software architecture.
 
 <p align="center">
   <img src="https://github.com/wiljav/wiljav/raw/master/init.gif"/>
