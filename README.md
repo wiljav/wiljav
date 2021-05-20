@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently 🌱 C++ and software architecture.
+I'm currently 🌱 many things at the same time.
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/wiljav/wiljav/raw/master/init.gif"/>
-</p>
+</p> -->
 
 ### Feel free to reach out 📫
 <!--[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlemaps.svg" alt="Website" height="30">](https://dataplanes.org) --> 
