@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently 🌱 many things at the same time.
+I'm currently learning things.
 
 <!-- <p align="center">
   <img src="https://github.com/wiljav/wiljav/raw/master/init.gif"/>
